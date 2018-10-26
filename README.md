@@ -27,7 +27,7 @@ All pre-requirements to make this work here:
 2. Run the following commands:
 ```
     git clone https://github.com/yaroslav-007/repo-A.git
-    cd kitchen-docker
+    cd repo-A
     vagrant up
     vagrant ssh
     hostname
